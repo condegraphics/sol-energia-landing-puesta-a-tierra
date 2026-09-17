@@ -15,9 +15,9 @@ Landing one-page para captación de consultas sobre medición de puesta a tierra
 
 ## Recursos usados
 
-- `img/logo-Sol-energia-2017-web-2.png`: logotipo oficial para encabezado y pie.
-- `img/Puesta-a-Tierra-ART.jpg`: imagen principal de una medición de puesta a tierra.
-- `img/medicion-2026.webp`: imagen secundaria de instrumental durante una medición eléctrica.
+- `img/sol-energia-logo.png`: logotipo oficial para encabezado y pie.
+- `img/medicion-puesta-tierra-tecnico.jpg`: imagen principal de una medición de puesta a tierra.
+- `img/instrumental-medicion-puesta-tierra.webp`: imagen secundaria de instrumental durante una medición eléctrica.
 
 Se dejaron fuera las imágenes restantes para reducir peso visual y mantener el foco de conversión.
 
